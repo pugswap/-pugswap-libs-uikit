@@ -2258,9 +2258,9 @@
     mkdirp "^1.0.4"
     rimraf "^2.7.1"
 
-"@pancakeswap-libs/eslint-config-pancake@0.1.0":
+"@pugswap-libs/eslint-config-pug@0.1.0":
   version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@pancakeswap-libs/eslint-config-pancake/-/eslint-config-pancake-0.1.0.tgz#109863752b77106bf2721d639c9a17e89002879d"
+  resolved "https://registry.yarnpkg.com/@pugswap-libs/eslint-config-pug/-/eslint-config-pug-0.1.0.tgz#109863752b77106bf2721d639c9a17e89002879d"
   integrity sha512-wJBZike/rd2f/9Vep6yNyA8qqRl7UBW55ppYvPaJa61HjethJ113hcUxWzgbQ35OfnLO5beuTBFqR/rypJ5V/A==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.7.0"
